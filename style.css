@@ -1,0 +1,33 @@
+
+#parent{
+    text-align: center;
+    background-color: rgb(199, 192, 192);
+    box-sizing:border-box;
+    border-radius: 10px;
+    box-shadow: 1px black 1;
+}
+h1{
+    display: inline-block;
+    color: blueviolet;
+    font-size: 50px;
+    padding:10px;
+    margin: 10px;
+    border: 1px rgb(95, 87, 87) solid;
+}
+p{
+    font-size: 30px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color:red;
+}
+button{
+    background-color: rgb(107, 107, 248);
+    border-radius: 10px;
+    border: 1px red solid;
+    font-size: 15px;
+}
+#myId{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    color:rgb(0, 0, 0);
+
+}
